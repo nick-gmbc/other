@@ -15,6 +15,8 @@ def test():
 def helo():
     pass
 
+def bye():
+    pass
 
 def zzz():
     pass
